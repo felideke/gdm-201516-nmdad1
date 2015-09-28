@@ -26,21 +26,34 @@ Hier lijst ik ze even op:
 Werkervaring
 ----------------
 
-Ik heb nog geen werkervaring in de zin van een vaste job. Ik heb wel al verschillende vakantiejobs gedaan. Al 4 jaar lang ben ik animator op het speelplein Jokkebrok. Ook in de horeca heb ik al verschillende keren gewerkt, zoals in het Q Beach House van Oostende en in de loges van Club Brugge en Cercle Brugge. Verder heb ik ook nog als arbeider gewerkt in Daikin Oostende.
+| Jaar | bedrijf | functie |
+|:-----|:-------|--------:|
+| 2013-2014-2015 | Jokkebrok | animator |
+| 2014 | Q Beach House | kelner |
+| 2014 | Club Brugge | kelner |
+| 2015 | Daikin | arbeider |   
+
 
 ---
 
 Kennis webtechnologieën
 -------------------------------
 
-Voor ik begon aan deze studie had ik nog geen kennis ivm webtechnologieën. Nu heb ik al enkele websites moeten maken en heb ik al wat meer kennis. Ook tijdens de lessen werd er veel uitleg gegeven.
+| Webtechnologie | Gekend |
+|----------------|--------|
+| HTML | Goed |
+| CSS | Goed |
+| Javascript | matig |
+| Jquery | matig |
+| MySQL | in behandeling |
+
 
 ---
 
 Software kennis
 -------------------
 
-Mijn kennis over software is gemiddeld. Ik kan goed overweg met Adobe producten en alles van Internet. Ik heb ook snel iets onder de knie dus bij een nieuwe software duurt het meestal niet lang voor ik er mee kan werken.
+Adobe CC 2015
 
 ---
 
