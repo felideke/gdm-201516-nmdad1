@@ -23,3 +23,5 @@ Feline Dekeyser
 	
 #Copyright en licentie#
 Feline Dekeyser
+
+![logo](images/nmdad_logo.jpg "logo nmdad")
