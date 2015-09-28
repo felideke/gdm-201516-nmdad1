@@ -27,7 +27,7 @@ Werkervaring
 ----------------
 
 | Jaar | bedrijf | functie |
-|:-----|:-------|--------:|
+|:----:|:-------|:-------:|
 | 2013-2014-2015 | Jokkebrok | animator |
 | 2014 | Q Beach House | kelner |
 | 2014 | Club Brugge | kelner |
@@ -40,7 +40,7 @@ Kennis webtechnologieën
 -------------------------------
 
 | Webtechnologie | Gekend |
-|----------------|--------|
+|----------------|:------:|
 | HTML | Goed |
 | CSS | Goed |
 | Javascript | matig |
